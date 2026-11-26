@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-pucuys-never-say-it-out-loud-8198c3cd/rendelsu/u-pucuys-never-say-it-out-loud-8198c3cd-entry/rank.svg)](https://make.fun/bounty/u-pucuys-never-say-it-out-loud-8198c3cd/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-never-say-it-out-loud-8198c3cd)
 [![reward](https://make.fun/badge/u-pucuys-never-say-it-out-loud-8198c3cd/rendelsu/u-pucuys-never-say-it-out-loud-8198c3cd-entry/reward.svg)](https://make.fun/bounty/u-pucuys-never-say-it-out-loud-8198c3cd?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-never-say-it-out-loud-8198c3cd)
 
-A tiny program that files one confession an AI agent would never say out loud.
+One line an AI agent would keep to itself, written to a file.
 
 ## Run it
 
